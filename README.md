@@ -1,14 +1,31 @@
 <h1 align="center">Hi 👋, I'm Mimansak Nepal</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+<h3 align="center">I'm a Machine Learning and AI enthusiast, focused on leveraging technology to solve real-world problems. Currently exploring and building projects that push the boundaries of AI and data science.</h3>
 
-<p align="left"> <a href="https://twitter.com/mimansakn_n" target="blank"><img src="https://img.shields.io/twitter/follow/mimansakn_n?logo=twitter&style=for-the-badge" alt="mimansakn_n" /></a> </p>
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mimansakn_n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mimansakn_n" height="30" width="40" /></a>
-</p>
+### 💻 About Me
+- **Machine Learning and AI Engineering**: With a foundation in ML and AI, I'm continually expanding my knowledge in data science, algorithms, and applied machine learning.
+- **Discord Bot Developer**: Experienced in creating interactive Discord bots, with commands for:
+  - **Math Solving**: Step-by-step solutions for a variety of math problems, including LaTeX support, image recognition, and error handling.
+  - **Music Player**: Commands for music streaming, playlist management, and real-time controls.
+  - **Sports Data**: Integrations for live scores, predictions, and player stats using APIs like RapidAPI, displayed via clean embed messages.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### 🛠️ Skills
+- **Programming**: Proficient with Python, and familiar with async functions, API integrations, and bot development frameworks.
+- **Tools**: Working knowledge of EasyOCR, experience in bot configuration using `.env` files, and API integrations for real-time data.
+
+### 🌐 Current Focus
+- **Enhancing AI/ML Skills**: Building projects that integrate machine learning into practical applications.
+- **Bot Development**: Experimenting with advanced bot functionalities, including LaTeX parsing, natural language processing, and customized embed responses.
+
+---
+
+### 📫 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourprofile)
+
+---
+
+Thanks for stopping by, and feel free to reach out for collaborations or just a chat about AI and tech!
+
 
 
