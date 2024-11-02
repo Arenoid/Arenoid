@@ -15,13 +15,13 @@
 - **Tools**: Working knowledge of EasyOCR, experience in bot configuration using `.env` files, and API integrations for real-time data.
 
 ### 🌐 Current Focus
-- **Enhancing AI/ML Skills**: Building projects that integrate machine learning into practical applications.
+- **Enhancing AI/ML Skills**: Building projects that integrate machine learning into practical applications / Learning about it as well
 - **Bot Development**: Experimenting with advanced bot functionalities, including LaTeX parsing, natural language processing, and customized embed responses.
 
 ---
 
 ### 📫 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourprofile)
+- [LinkedIn](https://www.linkedin.com/in/mimansak-nepal-67a295249/)
 
 ---
 
