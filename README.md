@@ -1,24 +1,20 @@
-<h1 align="center">Hi 👋, I'm Mimansak Nepal</h1>
-<h3 align="center">I'm a Machine Learning and AI enthusiast, focused on leveraging technology to solve real-world problems. Currently exploring and building projects that push the boundaries of AI and data science.</h3>
+Hi there! 👋 I'm Mimansak, an aspiring Machine Learning and AI engineer with a strong interest in data science, algorithms, and building intelligent systems. Currently, I'm focusing on projects in machine learning, data science, and AI applications, aiming to push my skills further and make meaningful contributions to the field. I'm working towards joining an Ivy League or top-tier college, ideally with a full-ride scholarship, and growing my expertise in AI and machine learning along the way.
 
----
+I enjoy using Python for data analysis, building machine learning models, and experimenting with AI algorithms. As a beginner, I'm constantly exploring new libraries and enhancing my skills, one project at a time.
 
-### 💻 About Me
-- **Machine Learning and AI Engineering**: With a foundation in ML and AI, I'm continually expanding my knowledge in data science, algorithms, and applied machine learning.
-- **Discord Bot Developer**: Experienced in creating interactive Discord bots, with commands for:
-  - **Math Solving**: Step-by-step solutions for a variety of math problems, including LaTeX support, image recognition, and error handling.
-  - **Music Player**: Commands for music streaming, playlist management, and real-time controls.
-  - **Sports Data**: Integrations for live scores, predictions, and player stats using APIs like RapidAPI, displayed via clean embed messages.
+## GitHub Stats
 
-### 🛠️ Skills
-- **Programming**: Proficient with Python, and familiar with async functions, API integrations, and bot development frameworks.
-- **Tools**: Working knowledge of EasyOCR, experience in bot configuration using `.env` files, and API integrations for real-time data.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arenoid&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arenoid&layout=compact&theme=radical)
 
-### 🌐 Current Focus
-- **Enhancing AI/ML Skills**: Building projects that integrate machine learning into practical applications / Learning about it as well
-- **Bot Development**: Experimenting with advanced bot functionalities, including LaTeX parsing, natural language processing, and customized embed responses.
+> **Note**: The language stats above update automatically as I work on new projects, so you can see my top programming languages evolve over time!
 
----
+## Current Focus
+
+- **Machine Learning** 🧠: Experimenting with ML algorithms and improving models
+- **Data Science** 📊: Analyzing data and applying statistical methods
+- **AI Applications** 🤖: Building practical applications with AI to solve real-world problems
+- **Python Mastery** 🐍: Advancing my skills from beginner to intermediate and beyond
 
 ### 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/mimansak-nepal-67a295249/)
