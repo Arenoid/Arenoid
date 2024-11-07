@@ -1,4 +1,4 @@
-Hi there! 👋 I'm Mimansak, an aspiring Machine Learning and AI engineer with a strong interest in data science, algorithms, and building intelligent systems. Currently, I'm focusing on projects in machine learning, data science, and AI applications, aiming to push my skills further and make meaningful contributions to the field. I'm working towards joining an Ivy League or top-tier college, ideally with a full-ride scholarship, and growing my expertise in AI and machine learning along the way.
+Hi there! 👋 I'm Mimansak, an aspiring Machine Learning and AI engineer with a strong interest in data science, algorithms, and building intelligent systems. Currently, I'm focusing on projects in machine learning, data science, and AI applications, aiming to push my skills further and make meaningful contributions to the field.
 
 I enjoy using Python for data analysis, building machine learning models, and experimenting with AI algorithms. As a beginner, I'm constantly exploring new libraries and enhancing my skills, one project at a time.
 
