@@ -15,6 +15,9 @@ I enjoy using Python for data analysis, building machine learning models, and ex
 - **Data Science** 📊: Analyzing data and applying statistical methods
 - **AI Applications** 🤖: Building practical applications with AI to solve real-world problems
 - **Python Mastery** 🐍: Advancing my skills from beginner to intermediate and beyond
+- **Data Visualization** 📉: Using **Matplotlib** for effective data visualization
+- **Data Analysis** 🔍: Leveraging **pandas** for powerful data manipulation
+
 
 ### 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/mimansak-nepal-67a295249/)
