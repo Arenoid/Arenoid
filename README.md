@@ -1,3 +1,13 @@
+Hey! I'm an engineering student interested in mathematics, programming, and building things.
+I like working on projects that sit somewhere between engineering and software, and I'm always learning something new along the way.
+#Projects
+
+A few things I've been working on:
+
+🛰️ Satellite tracking
+🚁 Drone mission planning
+📊 Data & engineering projects
+⚙️ Simulation and visualization
 
 ## GitHub Stats
 
